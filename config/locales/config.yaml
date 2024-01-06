@@ -1,0 +1,24 @@
+mysql:
+  default:
+    dialect: "mysql"
+    dbHost: "127.0.0.1"
+    dbPort: "3306"
+    dbName: "mall"
+    userName: "root"
+    password: "123456"
+    charset: "utf8md4"
+
+redis:
+  redisDbName:
+  redisHost:
+  redisPort:
+  redisPassword:
+  redisNetwork: ""
+
+email:
+  address:
+  smtpHost:
+  smtpEmail:
+  smtpPass:
+
+
